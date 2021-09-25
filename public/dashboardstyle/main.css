@@ -1,0 +1,20 @@
+#li {
+  position: relative;
+}
+
+#li #drop {
+  position: absolute;
+  top: 0;
+  background-color: #2c2e2e;
+  left: 0;
+  width: 100%;
+  padding: 0;
+}
+
+.ower {
+  overflow-y: scroll;
+  height: 120px;
+  width: 300px;
+  overflow-x: scroll;
+}
+/*# sourceMappingURL=main.css.map */

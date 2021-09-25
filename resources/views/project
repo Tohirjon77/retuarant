@@ -1,0 +1,47 @@
+      restoran maketi
+https://impreza6.us-themes.com/  
+
+project tugaganida env da debugni false qlib qoy xatoliklar uchun
+
+ product table                              
+ play xabaralar {
+
+ }                            
+                                           ------>>>>>  <<<<<-----
+menyu ga baza{                          
+    categoriyalar jadval {
+        name uz, name ru, description uz, descriotion ru, image, status.
+    }
+    productlar uchun jadval{
+     name uz, name ru, description uz, description ru, structura uz, structura ru, image, price, cat_name.
+    }
+}
+                                        ------>>>>>  <<<<<------
+ Gallery uchun{
+     bitta jadvalni o'ziga ikki fayl yuklanadigan input
+     1 - restoran rasmlari uchun.
+     2 - oziq ovqat rasmlar uchun.
+
+ }
+
+Aboute {
+    jamoa azolari uchun jadval{
+        name
+        lavozimi
+        tavsifi
+        image
+    }
+    restoran haqida malumotlar uchun jadval{
+        phone, 
+        kartadagi orni,
+         tavsif_
+        menyular soni..
+        facebookdagi mijozlar soni..
+        oylik yangi retseplar..
+    }
+ }
+
+ Mizojlar uchun contact
+
+
+Qo'shish kerak restorandagi hodisalar. Bayramlar uchun qulay sharoitlar haqda qisqa malumot.
